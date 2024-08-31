@@ -7,5 +7,3 @@ for i in range (1,100):
         print(i)
     else:
         print("Its not divisible by 5")
-
-    
