@@ -12,3 +12,6 @@ print(list)
 #sorting the list
 list.sort()
 print(list)
+
+list.append("pgl")
+print(list)
