@@ -13,5 +13,6 @@ print(list)
 list.sort()
 print(list)
 
+#Added one more element in list but not sorted
 list.append("pgl")
 print(list)
